@@ -144,3 +144,5 @@ dist
 
 bin
 obj
+*-shm
+*-wal
